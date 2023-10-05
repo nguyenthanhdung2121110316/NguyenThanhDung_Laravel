@@ -11,3 +11,4 @@
 ## Thời hạn deadline Giao diện web:
 - Tuần 2: từ ngày 11/9 -> 17/9: Giao diện frontend
 - Tuần 3: từ ngày 18/9 -> 24/9: Giao diện backend, chức năng đăng nhập/ đăng xuất admin, thêm danh mục sản phẩm
+- Tuần 4: từ ngày 25/9 -> 1/9: Truyền dữ liệu backend lên được trang index frontend
