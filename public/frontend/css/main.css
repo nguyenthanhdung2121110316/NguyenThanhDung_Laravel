@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background:;
+  background: white;
   position: relative;
   font-weight:400px;
 }
@@ -868,7 +868,7 @@ h2.title {
 	font-weight: 700;
 }
 .product-overlay h2{
-	color: #fc6464;
+	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
@@ -891,7 +891,7 @@ h2.title {
 }
 
 .product-overlay {
-  background:url('../../backend/loginadmin/images/login.gif');
+  background:url('../../backend/loginadmin/images/login3.gif');
   top: 0;
   display: none;
   height: 0;
@@ -924,7 +924,7 @@ h2.title {
   background:#fff;
   border: 0 none;
   border-radius: 0;
-  color: #FE980F;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin-bottom: 25px;
@@ -940,7 +940,7 @@ h2.title {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 400;
-  color: #FE980F;
+  color: #ffffff;
 }
 
 
@@ -1167,6 +1167,7 @@ h2.title {
   margin-bottom: 40px;
   overflow: hidden;
   margin-top: 10px;
+  background: url('../../backend/loginadmin/images/gau1.gif');
 }
 
 
